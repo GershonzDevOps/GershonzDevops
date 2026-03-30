@@ -1,41 +1,60 @@
-# Hi, I'm Gershon 👋
+# 👋 Hi, I'm Gershon Zormelo
 
-**Cloud & DevOps Engineer** focused on building secure, scalable, and automated cloud infrastructure on AWS.  
-I turn manual processes into automated workflows and design systems that are reliable, cost-effective, and easy to maintain.
+🚀 Cloud & DevOps Engineer passionate about building scalable, secure, and automated cloud infrastructure on AWS.
 
 ---
 
-## 🛠 Skills & Tools
-- **Cloud**: AWS (EC2, S3, VPC, IAM, CloudFront, ECS, CloudWatch)
-- **Infrastructure as Code**: Terraform (modules, workspaces), AWS CloudFormation
-- **Containers**: Docker, Amazon ECS/ECR
-- **CI/CD**: AWS CodePipeline, CodeBuild, GitHub Actions
-- **Monitoring & Alerts**: CloudWatch metrics, logs, dashboards, SNS alerts
-- **Version Control**: Git, GitHub
+## ⚡ About Me
+- 🔧 I design and deploy cloud infrastructure using Terraform (Infrastructure as Code)
+- 🔁 I build CI/CD pipelines using AWS CodePipeline & CodeBuild
+- 🐳 I deploy containerized applications using Docker & Amazon ECS
+- 📊 I monitor systems using CloudWatch
+- 🎯 Focused on building production-ready systems
 
+---
+
+## 🛠️ Tech Stack
+- ☁️ AWS: EC2, S3, VPC, IAM, ECS, ECR, CloudWatch, CloudFront
+- 🏗️ IaC: Terraform, CloudFormation
+- 🔁 CI/CD: GitHub Actions, AWS CodePipeline, CodeBuild
+- 🐳 Containers: Docker, ECS (Fargate)
+- 🔧 Tools: Git, GitHub, VS Code
+
+---
 
 ## 🚀 Featured Projects
-Here are some of my public projects. More in my [Repositories](https://github.com/GershonzDevOps?tab=repositories):
 
-- **Version Control** – Git & GitHub basics, branching, commits, PRs.  
-  👉 https://github.com/GershonzDevOps/Version-Control
+### ⚙️ AWS CI/CD Pipeline (GitHub → ECS)
+- Automated deployment pipeline using CodePipeline & CodeBuild
+- Dockerized app pushed to ECR and deployed to ECS
+- Integrated GitHub as source
 
-- **setECR** – AWS Elastic Container Registry setup and usage.  
-
-- **Terraform First Project** – AWS infrastructure deployed using Terraform.  
-
-- **Terraform Collab Cluster** – Collaborative Terraform project for AWS cluster setup.  
-  👉 https://github.com/GershonzDevOps/terraform-collab-cluster
-
-- **Cloud** – AWS project including EC2, VPC, S3, IAM configurations.  
-  👉 https://github.com/GershonzDevOps/cloud
-
-
-## 📬 Contact
-- **Email**: setor274@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/gershon-zormelo-479026316
-- **GitHub**: https://github.com/GershonzDevOps
+🔗 https://github.com/GershonzDevOps/aws-ci-cd-pipeline
 
 ---
 
-⭐️ *Feel free to check out my projects and connect with me for cloud and DevOps opportunities.*
+### 🌐 AWS VPC with Terraform
+- Built secure VPC with public/private subnets
+- Configured NAT Gateway, route tables, flow logs
+- Modular Terraform architecture
+
+🔗 https://github.com/GershonzDevOps/terraform-collabcluster
+
+---
+
+### 🐳 Dockerized Web App on ECS
+- Built Docker image and deployed to ECS
+- Configured CloudWatch logging and monitoring
+
+🔗 https://github.com/GershonzDevOps/ecs-docker-app
+
+---
+
+## 📊 GitHub Stats
+![Gershon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GershonzDevOps&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect With Me
+- 📧 setor274@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/gershon-zormelo-479026316  
