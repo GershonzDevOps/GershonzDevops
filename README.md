@@ -23,31 +23,18 @@
 ---
 
 ## 🚀 Featured Projects
+### Dockerized PostgreSQL & pgAdmin DevOps Lab
+- Built PostgreSQL environment using Docker Compose
+- Configured pgAdmin for database administration
+- Implemented SQL schema creation and JOIN queries
+- Added persistent Docker volumes
 
-### ⚙️ AWS CI/CD Pipeline (GitHub → ECS)
-- Automated deployment pipeline using CodePipeline & CodeBuild
-- Dockerized app pushed to ECR and deployed to ECS
-- Integrated GitHub as source
+### AWS ECS CI/CD Pipeline
+- Automated deployments using GitHub, CodeBuild, ECR, and ECS
+- Implemented containerized application deployment workflow
 
-🔗 https://github.com/GershonzDevOps/aws-ci-cd-pipeline
-
----
-
-### 🌐 AWS VPC with Terraform
-- Built secure VPC with public/private subnets
-- Configured NAT Gateway, route tables, flow logs
-- Modular Terraform architecture
-
-🔗 https://github.com/GershonzDevOps/terraform-collabcluster
-
----
-
-### 🐳 Dockerized Web App on ECS
-- Built Docker image and deployed to ECS
-- Configured CloudWatch logging and monitoring
-
-🔗 https://github.com/GershonzDevOps/ecs-docker-app
-
+### Terraform AWS Infrastructure
+- Provisioned VPC, EC2, subnets, route tables, and security groups using Terraform
 ---
 
 ## 📊 GitHub Stats
