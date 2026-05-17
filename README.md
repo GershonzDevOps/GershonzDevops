@@ -38,8 +38,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Gershon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GershonzDevOps&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GershonzDevOps&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GershonzDevOps&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
